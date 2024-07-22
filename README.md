@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Mahajan</h1>
-<h3 align="center">A second year computer science student.</h3>
+<h3 align="center">A third year computer science student.</h3>
 
 - 🌱 I’m currently learning **advanced Python and Full Stack Development.**
 
